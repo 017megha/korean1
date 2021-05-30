@@ -1,0 +1,29 @@
+#show_list
+{
+    float: left;
+    width: 70px;
+    height: 60px;
+}
+.heading
+{
+    width: 100%;
+    display: inline-block;
+}
+#greetings
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    float: left;
+}
+#greetings1
+{
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+}
+.greetings_div
+{
+    margin-right: 50px;
+    float: left;
+}
